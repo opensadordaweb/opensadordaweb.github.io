@@ -3,31 +3,10 @@
     <title>O Pensador da Web</title>
     <link href="https://opensadordaweb.pages.dev/feed.xml" rel="self" />
     <link href="https://opensadordaweb.pages.dev" />
-    <updated>2025-09-21T20:56:01-03:00</updated>
+    <updated>1969-12-31T21:00:00-03:00</updated>
     <author>
         <name>Pablo Almeida</name>
     </author>
     <id>https://opensadordaweb.pages.dev</id>
 
-    <entry>
-        <title>O que esperar da IA nos próximos anos?</title>
-        <author>
-            <name>Pablo Almeida</name>
-        </author>
-        <link href="https://opensadordaweb.pages.dev/post/o-que-esperar-da-ia-nos-proximos-anos/"/>
-        <id>https://opensadordaweb.pages.dev/post/o-que-esperar-da-ia-nos-proximos-anos/</id>
-            <category term="IA"/>
-
-        <updated>2025-09-21T20:00:30-03:00</updated>
-            <summary>
-                <![CDATA[
-                    Olá mundo!
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Olá mundo!</p>
-            ]]>
-        </content>
-    </entry>
 </feed>

@@ -10,20 +10,5 @@
         "name": "Pablo Almeida"
     },
     "items": [
-        {
-            "id": "https://opensadordaweb.pages.dev/post/o-que-esperar-da-ia-nos-proximos-anos/",
-            "url": "https://opensadordaweb.pages.dev/post/o-que-esperar-da-ia-nos-proximos-anos/",
-            "title": "O que esperar da IA nos próximos anos?",
-            "summary": "Olá mundo!",
-            "content_html": "<p>Olá mundo!</p>",
-            "author": {
-                "name": "Pablo Almeida"
-            },
-            "tags": [
-                   "IA"
-            ],
-            "date_published": "2025-09-21T20:00:30-03:00",
-            "date_modified": "2025-09-21T20:56:01-03:00"
-        }
     ]
 }
