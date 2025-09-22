@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "O Pensador da Web",
+    "description": "",
+    "home_page_url": "https://opensadordaweb.github.io",
+    "feed_url": "https://opensadordaweb.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://opensadordaweb.github.io/media/website/Logo-O-Pensador-da-Web-2.png",
+    "author": {
+        "name": "Pablo Almeida"
+    },
+    "items": [
+        {
+            "id": "https://opensadordaweb.github.io/post/o-que-esperar-da-ia-nos-proximos-anos/",
+            "url": "https://opensadordaweb.github.io/post/o-que-esperar-da-ia-nos-proximos-anos/",
+            "title": "O que esperar da IA nos próximos anos?",
+            "summary": "Olá mundo!",
+            "content_html": "<p>Olá mundo!</p>",
+            "author": {
+                "name": "Pablo Almeida"
+            },
+            "tags": [
+                   "IA"
+            ],
+            "date_published": "2025-09-21T20:00:30-03:00",
+            "date_modified": "2025-09-21T20:56:01-03:00"
+        }
+    ]
+}
